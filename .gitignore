@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WhereThereIsALoop
+/WhereThe.7466321a/x64/Debug
+/x64/Debug
